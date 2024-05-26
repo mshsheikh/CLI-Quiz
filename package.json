@@ -1,0 +1,22 @@
+{
+  "name": "quiz-mshsheikh",
+  "version": "1.0.0",
+  "description": "It's a simple CLI based Quiz created with TypeScript, NodeJS & Inquirer by Muhammad Salman Hussain.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Salman Hussain",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  }
+}
